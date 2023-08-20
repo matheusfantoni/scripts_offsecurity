@@ -12,3 +12,6 @@
 
 # Script portscan.py
 -> Script para construir um scanner de porta simples
+
+# Script download_files.py
+-> Script útil para realizar donwload de arquivos como 'wget'
