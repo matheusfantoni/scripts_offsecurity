@@ -18,3 +18,6 @@
 
 # Script hash_cracker.py
 -> Criação de crackers de hash de acordo com seus requisitos 
+
+# Script bruteforce_ssh.py
+-> Crição de um script de ataque de força bruta de senha SSH
