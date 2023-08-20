@@ -11,6 +11,7 @@ ip = '192.168.1.6'
 open_ports =[] 
 
 ports = range(1, 65535)
+#ports = { 21, 22, 23, 53, 80, 135, 443, 445} procurando por um serviço específico ou quiser economizar tempo verificando algumas portas comuns
 
 
 def probe_port(ip, port, result = 1): 
