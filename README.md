@@ -15,3 +15,6 @@
 
 # Script download_files.py
 -> Script útil para realizar donwload de arquivos como 'wget'
+
+# Script hash_cracker.py
+-> Criação de crackers de hash de acordo com seus requisitos 
