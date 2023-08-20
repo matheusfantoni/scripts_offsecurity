@@ -9,3 +9,6 @@
 
 # Script arp_scan.py
 -> Realiza scan na rede através do protocolo ARP (Address Resolution Protocol) para identificar alvos na rede local.
+
+# Script portscan.py
+-> Script para construir um scanner de porta simples
