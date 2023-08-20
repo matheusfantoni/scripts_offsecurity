@@ -6,3 +6,6 @@
 
 # Script direnum.py
 -> O código cria uma ferramenta de enumeração de diretório simples.
+
+# Script scan_net.py
+-> Realiza scan na rede através do protocolo ARP (Address Resolution Protocol) para identificar alvos na rede local.
